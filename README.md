@@ -10,4 +10,4 @@
 
 - 🌱 I’m currently learning React.js
 - 💬 Ask me about Javascript, Bootstrap, Node.js, PHP
-- 📫 How to reach me: LinkedIn:- https://https://www.linkedin.com/in/akshay-adme-63aa43127/ 
+- 📫 How to reach me: LinkedIn:- https://www.linkedin.com/in/akshay-adme-63aa43127/ 
