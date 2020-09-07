@@ -12,3 +12,6 @@
 - 🌱 I’m currently learning React.js
 - 💬 Ask me about Javascript, Bootstrap, Node.js, PHP
 - 📫 How to reach me: LinkedIn:- https://www.linkedin.com/in/akshay-adme-63aa43127/ 
+
+<img src="https://github-readme-stats.vercel.app/api?username=akshayadme&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayadme&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
