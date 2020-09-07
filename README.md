@@ -5,13 +5,17 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 ##### I am a Web Developer I want to do a job in a field of Web Development. 
-
+- 🔭 I’m currently working on Node.js project
 - 🌱 I’m currently learning React.js
+- 👯 I’m looking for a Web Developer job
 - 💬 Ask me about Javascript, Bootstrap, Node.js, PHP
 - 📫 How to reach me: LinkedIn:- https://www.linkedin.com/in/akshay-adme-63aa43127/ 
+- ⚡ Fun fact: I love to design web pages.
+
+### Connect with me
+
 
 ### Languages & Tools
 ![](https://img.shields.io/badge/Frontend-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
