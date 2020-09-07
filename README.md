@@ -1,4 +1,4 @@
-# Hi there, I am Akshay Adme 👋
+# Hi there, I'm Akshay Adme 👋
 
 <!--
 - 🔭 I’m currently working on ...
