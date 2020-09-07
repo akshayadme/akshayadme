@@ -7,6 +7,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##### I am a Web Developer I want to do a job in a field of Web Development. 
 
 - 🌱 I’m currently learning React.js
 - 💬 Ask me about Javascript, Bootstrap, Node.js, PHP
