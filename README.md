@@ -1,4 +1,4 @@
-# Hi there, I'm Akshay Adme 👋
+## Hi there, I'm Akshay Adme 👋
 
 <!--
 - 🔭 I’m currently working on ...
@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 -->
-## I am Student, Developer, Programmer. 
+# I am Student, Developer, Programmer. 
 - 🔭 I’m currently working on Node.js project
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking for a Web Developer job
