@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 -->
-##### I am a Web Developer I want to do a job in a field of Web Development. 
+## I am Student, Developer, Programmer. 
 - 🔭 I’m currently working on Node.js project
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking for a Web Developer job
