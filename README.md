@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 -->
-# I am Student, Developer, Programmer. 
+# I am Student, Learner, Developer, Programmer. 
 - 🔭 I’m currently working on Node.js project
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking for a Web Developer job
@@ -15,7 +15,8 @@
 - ⚡ Fun fact: I love to design web pages.
 
 ### Connect with me
-
+<a href="https://www.linkedin.com/in/akshay-adme-63aa43127/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/akshay-adme-63aa43127/"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 
 ### Languages & Tools
 ![](https://img.shields.io/badge/Frontend-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
