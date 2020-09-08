@@ -16,7 +16,7 @@
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/akshay-adme-63aa43127/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="https://www.linkedin.com/in/akshay-adme-63aa43127/"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href="mailto:akshayadme@gmail.com/"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 
 ### Languages & Tools
 ![](https://img.shields.io/badge/Frontend-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
