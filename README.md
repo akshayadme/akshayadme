@@ -5,13 +5,13 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
+- 📫 How to reach me: LinkedIn:- https://www.linkedin.com/in/akshay-adme-63aa43127/ 
 -->
 # I am Student, Learner, Developer, Programmer. 
 - 🔭 I’m currently working on Node.js project
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking for a Web Developer job
 - 💬 Ask me about Javascript, Bootstrap, Node.js, PHP
-- 📫 How to reach me: LinkedIn:- https://www.linkedin.com/in/akshay-adme-63aa43127/ 
 - ⚡ Fun fact: I love to design web pages.
 
 ### Connect with me
